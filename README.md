@@ -1,5 +1,3 @@
-# README.md
-
 # SqlClrShell
 
 **SqlClrShell** 是一款利用 SQL Server CLR 程序集实现操作系统命令交互执行的渗透测试工具。  
